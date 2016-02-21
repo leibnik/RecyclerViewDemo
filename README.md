@@ -1,5 +1,5 @@
 ## 【译】android中使用RecyclerView
----
+
 此篇博客为译文，转载请注明出处。
 
 * 原文：[Android Working with Recycler View](http://www.androidhive.info/2016/01/android-working-with-recycler-view/)
